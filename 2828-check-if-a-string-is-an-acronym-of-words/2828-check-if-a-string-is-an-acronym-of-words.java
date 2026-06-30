@@ -9,7 +9,7 @@ class Solution {
         }
 
         for(int i = 0;i<n;i++){
-            if(!words.get(i).startsWith(String.valueOf(s.charAt(i)))){
+            if(words.get(i).charAt(0) != s.charAt(i)){
                 return false;
             }
         }
