@@ -13,6 +13,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mishra559/DSAquestios/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mishra559/DSAquestios/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Mishra559/DSAquestios/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Mishra559/DSAquestios/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Mishra559/DSAquestios/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mishra559/DSAquestios/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Mishra559/DSAquestios/tree/master/3285-find-indices-of-stable-mountains) |
