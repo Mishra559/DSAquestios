@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mishra559/DSAquestios/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mishra559/DSAquestios/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1773-count-items-matching-a-rule](https://github.com/Mishra559/DSAquestios/tree/master/1773-count-items-matching-a-rule) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Mishra559/DSAquestios/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/Mishra559/DSAquestios/tree/master/0771-jewels-and-stones) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mishra559/DSAquestios/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -46,9 +48,14 @@
 ## Sorting
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mishra559/DSAquestios/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mishra559/DSAquestios/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/1486-xor-operation-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mishra559/DSAquestios/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
