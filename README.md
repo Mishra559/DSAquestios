@@ -35,6 +35,7 @@
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Mishra559/DSAquestios/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3174-clear-digits](https://github.com/Mishra559/DSAquestios/tree/master/3174-clear-digits) |
 | [3340-check-balanced-string](https://github.com/Mishra559/DSAquestios/tree/master/3340-check-balanced-string) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mishra559/DSAquestios/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Math
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mishra559/DSAquestios/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3099-harshad-number](https://github.com/Mishra559/DSAquestios/tree/master/3099-harshad-number) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mishra559/DSAquestios/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mishra559/DSAquestios/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Mishra559/DSAquestios/tree/master/2413-smallest-even-multiple) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mishra559/DSAquestios/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,6 +96,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Mishra559/DSAquestios/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3174-clear-digits](https://github.com/Mishra559/DSAquestios/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mishra559/DSAquestios/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mishra559/DSAquestios/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Enumeration
 |  |
@@ -103,4 +107,8 @@
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/Mishra559/DSAquestios/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/Mishra559/DSAquestios/tree/master/3174-clear-digits) |
+## Combinatorics
+|  |
+| ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mishra559/DSAquestios/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
