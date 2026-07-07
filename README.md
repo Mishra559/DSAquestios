@@ -48,6 +48,7 @@
 | [3099-harshad-number](https://github.com/Mishra559/DSAquestios/tree/master/3099-harshad-number) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mishra559/DSAquestios/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mishra559/DSAquestios/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Mishra559/DSAquestios/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Hash Table
 |  |
 | ------- |
