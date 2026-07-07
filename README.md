@@ -31,6 +31,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Mishra559/DSAquestios/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/Mishra559/DSAquestios/tree/master/2390-removing-stars-from-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Mishra559/DSAquestios/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3174-clear-digits](https://github.com/Mishra559/DSAquestios/tree/master/3174-clear-digits) |
 | [3340-check-balanced-string](https://github.com/Mishra559/DSAquestios/tree/master/3340-check-balanced-string) |
 ## Math
 |  |
@@ -86,6 +87,7 @@
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/Mishra559/DSAquestios/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/2553-separate-the-digits-in-an-array) |
+| [3174-clear-digits](https://github.com/Mishra559/DSAquestios/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mishra559/DSAquestios/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Enumeration
@@ -96,4 +98,5 @@
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/Mishra559/DSAquestios/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/Mishra559/DSAquestios/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
