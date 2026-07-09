@@ -120,4 +120,8 @@
 |  |
 | ------- |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mishra559/DSAquestios/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+## Database
+|  |
+| ------- |
+| [1683-invalid-tweets](https://github.com/Mishra559/DSAquestios/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
