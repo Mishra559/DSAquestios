@@ -125,6 +125,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Mishra559/DSAquestios/tree/master/0175-combine-two-tables) |
+| [0182-duplicate-emails](https://github.com/Mishra559/DSAquestios/tree/master/0182-duplicate-emails) |
 | [0620-not-boring-movies](https://github.com/Mishra559/DSAquestios/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/Mishra559/DSAquestios/tree/master/0627-swap-sex-of-employees) |
 | [1683-invalid-tweets](https://github.com/Mishra559/DSAquestios/tree/master/1683-invalid-tweets) |
