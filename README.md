@@ -46,6 +46,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mishra559/DSAquestios/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/1486-xor-operation-in-an-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Mishra559/DSAquestios/tree/master/2119-a-number-after-a-double-reversal) |
+| [2396-strictly-palindromic-number](https://github.com/Mishra559/DSAquestios/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Mishra559/DSAquestios/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Mishra559/DSAquestios/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mishra559/DSAquestios/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Mishra559/DSAquestios/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2396-strictly-palindromic-number](https://github.com/Mishra559/DSAquestios/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mishra559/DSAquestios/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -135,4 +137,8 @@
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Mishra559/DSAquestios/tree/master/1732-find-the-highest-altitude) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Mishra559/DSAquestios/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
