@@ -125,6 +125,7 @@
 |  |
 | ------- |
 | [1683-invalid-tweets](https://github.com/Mishra559/DSAquestios/tree/master/1683-invalid-tweets) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Mishra559/DSAquestios/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Mishra559/DSAquestios/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Prefix Sum
 |  |
