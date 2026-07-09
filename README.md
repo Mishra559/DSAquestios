@@ -124,6 +124,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Mishra559/DSAquestios/tree/master/0175-combine-two-tables) |
 | [0627-swap-sex-of-employees](https://github.com/Mishra559/DSAquestios/tree/master/0627-swap-sex-of-employees) |
 | [1683-invalid-tweets](https://github.com/Mishra559/DSAquestios/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Mishra559/DSAquestios/tree/master/1757-recyclable-and-low-fat-products) |
