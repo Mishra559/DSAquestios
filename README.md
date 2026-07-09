@@ -8,6 +8,7 @@
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mishra559/DSAquestios/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mishra559/DSAquestios/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1732-find-the-highest-altitude](https://github.com/Mishra559/DSAquestios/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/Mishra559/DSAquestios/tree/master/1773-count-items-matching-a-rule) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mishra559/DSAquestios/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Mishra559/DSAquestios/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -124,4 +125,8 @@
 |  |
 | ------- |
 | [1683-invalid-tweets](https://github.com/Mishra559/DSAquestios/tree/master/1683-invalid-tweets) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/Mishra559/DSAquestios/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
