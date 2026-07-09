@@ -33,6 +33,7 @@
 | [1844-replace-all-digits-with-characters](https://github.com/Mishra559/DSAquestios/tree/master/1844-replace-all-digits-with-characters) |
 | [1859-sorting-the-sentence](https://github.com/Mishra559/DSAquestios/tree/master/1859-sorting-the-sentence) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Mishra559/DSAquestios/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [2000-reverse-prefix-of-word](https://github.com/Mishra559/DSAquestios/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Mishra559/DSAquestios/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Mishra559/DSAquestios/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/Mishra559/DSAquestios/tree/master/2390-removing-stars-from-a-string) |
@@ -73,6 +74,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [2000-reverse-prefix-of-word](https://github.com/Mishra559/DSAquestios/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Mishra559/DSAquestios/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2396-strictly-palindromic-number](https://github.com/Mishra559/DSAquestios/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mishra559/DSAquestios/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -118,6 +120,7 @@
 ## Stack
 |  |
 | ------- |
+| [2000-reverse-prefix-of-word](https://github.com/Mishra559/DSAquestios/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Mishra559/DSAquestios/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/Mishra559/DSAquestios/tree/master/3174-clear-digits) |
 ## Combinatorics
