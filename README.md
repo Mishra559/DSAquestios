@@ -43,6 +43,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Mishra559/DSAquestios/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Mishra559/DSAquestios/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3174-clear-digits](https://github.com/Mishra559/DSAquestios/tree/master/3174-clear-digits) |
+| [3280-convert-date-to-binary](https://github.com/Mishra559/DSAquestios/tree/master/3280-convert-date-to-binary) |
 | [3340-check-balanced-string](https://github.com/Mishra559/DSAquestios/tree/master/3340-check-balanced-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mishra559/DSAquestios/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Math
@@ -57,6 +58,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mishra559/DSAquestios/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3099-harshad-number](https://github.com/Mishra559/DSAquestios/tree/master/3099-harshad-number) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mishra559/DSAquestios/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3280-convert-date-to-binary](https://github.com/Mishra559/DSAquestios/tree/master/3280-convert-date-to-binary) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mishra559/DSAquestios/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mishra559/DSAquestios/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Mishra559/DSAquestios/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
