@@ -63,6 +63,7 @@
 | [2396-strictly-palindromic-number](https://github.com/Mishra559/DSAquestios/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Mishra559/DSAquestios/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Mishra559/DSAquestios/tree/master/2469-convert-the-temperature) |
+| [2485-find-the-pivot-integer](https://github.com/Mishra559/DSAquestios/tree/master/2485-find-the-pivot-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mishra559/DSAquestios/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3099-harshad-number](https://github.com/Mishra559/DSAquestios/tree/master/3099-harshad-number) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mishra559/DSAquestios/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Mishra559/DSAquestios/tree/master/1732-find-the-highest-altitude) |
+| [2485-find-the-pivot-integer](https://github.com/Mishra559/DSAquestios/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Mishra559/DSAquestios/tree/master/2574-left-and-right-sum-differences) |
 ## Brainteaser
 |  |
