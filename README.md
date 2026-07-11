@@ -34,6 +34,7 @@
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mishra559/DSAquestios/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Mishra559/DSAquestios/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Mishra559/DSAquestios/tree/master/3131-find-the-integer-added-to-array-i) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Mishra559/DSAquestios/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mishra559/DSAquestios/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Mishra559/DSAquestios/tree/master/3285-find-indices-of-stable-mountains) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -96,6 +97,7 @@
 | [2418-sort-the-people](https://github.com/Mishra559/DSAquestios/tree/master/2418-sort-the-people) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Mishra559/DSAquestios/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mishra559/DSAquestios/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Mishra559/DSAquestios/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Number Theory
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mishra559/DSAquestios/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/1486-xor-operation-in-an-array) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Mishra559/DSAquestios/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Counting Sort
 |  |
