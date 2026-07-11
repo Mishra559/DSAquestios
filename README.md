@@ -30,6 +30,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mishra559/DSAquestios/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mishra559/DSAquestios/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Mishra559/DSAquestios/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Mishra559/DSAquestios/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Mishra559/DSAquestios/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Mishra559/DSAquestios/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mishra559/DSAquestios/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -91,6 +92,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2418-sort-the-people](https://github.com/Mishra559/DSAquestios/tree/master/2418-sort-the-people) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Mishra559/DSAquestios/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Mishra559/DSAquestios/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Number Theory
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 | [1748-sum-of-unique-elements](https://github.com/Mishra559/DSAquestios/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mishra559/DSAquestios/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/2053-kth-distinct-string-in-an-array) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Mishra559/DSAquestios/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
