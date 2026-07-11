@@ -46,6 +46,7 @@
 | [1844-replace-all-digits-with-characters](https://github.com/Mishra559/DSAquestios/tree/master/1844-replace-all-digits-with-characters) |
 | [1859-sorting-the-sentence](https://github.com/Mishra559/DSAquestios/tree/master/1859-sorting-the-sentence) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Mishra559/DSAquestios/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mishra559/DSAquestios/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/Mishra559/DSAquestios/tree/master/2000-reverse-prefix-of-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Mishra559/DSAquestios/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -89,6 +90,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mishra559/DSAquestios/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/Mishra559/DSAquestios/tree/master/1748-sum-of-unique-elements) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Mishra559/DSAquestios/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mishra559/DSAquestios/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mishra559/DSAquestios/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2418-sort-the-people](https://github.com/Mishra559/DSAquestios/tree/master/2418-sort-the-people) |
@@ -134,6 +136,7 @@
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mishra559/DSAquestios/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/Mishra559/DSAquestios/tree/master/1748-sum-of-unique-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mishra559/DSAquestios/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mishra559/DSAquestios/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mishra559/DSAquestios/tree/master/3005-count-elements-with-maximum-frequency) |
