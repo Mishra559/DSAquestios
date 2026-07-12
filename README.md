@@ -66,6 +66,7 @@
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mishra559/DSAquestios/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mishra559/DSAquestios/tree/master/3498-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Mishra559/DSAquestios/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3931-check-adjacent-digit-differences](https://github.com/Mishra559/DSAquestios/tree/master/3931-check-adjacent-digit-differences) |
 ## Math
 |  |
 | ------- |
