@@ -35,6 +35,7 @@
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Mishra559/DSAquestios/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mishra559/DSAquestios/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Mishra559/DSAquestios/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/Mishra559/DSAquestios/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Mishra559/DSAquestios/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Mishra559/DSAquestios/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mishra559/DSAquestios/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -84,6 +85,7 @@
 | [2469-convert-the-temperature](https://github.com/Mishra559/DSAquestios/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/Mishra559/DSAquestios/tree/master/2485-find-the-pivot-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mishra559/DSAquestios/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/Mishra559/DSAquestios/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3099-harshad-number](https://github.com/Mishra559/DSAquestios/tree/master/3099-harshad-number) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mishra559/DSAquestios/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/Mishra559/DSAquestios/tree/master/3280-convert-date-to-binary) |
