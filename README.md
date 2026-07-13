@@ -76,6 +76,7 @@
 | [3498-reverse-degree-of-a-string](https://github.com/Mishra559/DSAquestios/tree/master/3498-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Mishra559/DSAquestios/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3931-check-adjacent-digit-differences](https://github.com/Mishra559/DSAquestios/tree/master/3931-check-adjacent-digit-differences) |
+| [3941-password-strength](https://github.com/Mishra559/DSAquestios/tree/master/3941-password-strength) |
 ## Math
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Mishra559/DSAquestios/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mishra559/DSAquestios/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Mishra559/DSAquestios/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3941-password-strength](https://github.com/Mishra559/DSAquestios/tree/master/3941-password-strength) |
 ## Number Theory
 |  |
 | ------- |
