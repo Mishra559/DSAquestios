@@ -28,6 +28,7 @@
 | [2109-adding-spaces-to-a-string](https://github.com/Mishra559/DSAquestios/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Mishra559/DSAquestios/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/Mishra559/DSAquestios/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2418-sort-the-people](https://github.com/Mishra559/DSAquestios/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Mishra559/DSAquestios/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/Mishra559/DSAquestios/tree/master/2460-apply-operations-to-an-array) |
@@ -71,6 +72,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Mishra559/DSAquestios/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Mishra559/DSAquestios/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Mishra559/DSAquestios/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/Mishra559/DSAquestios/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/Mishra559/DSAquestios/tree/master/2278-percentage-of-letter-in-string) |
 | [2315-count-asterisks](https://github.com/Mishra559/DSAquestios/tree/master/2315-count-asterisks) |
 | [2351-first-letter-to-appear-twice](https://github.com/Mishra559/DSAquestios/tree/master/2351-first-letter-to-appear-twice) |
