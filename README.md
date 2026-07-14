@@ -53,6 +53,7 @@
 | [3285-find-indices-of-stable-mountains](https://github.com/Mishra559/DSAquestios/tree/master/3285-find-indices-of-stable-mountains) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Mishra559/DSAquestios/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3921-score-validator](https://github.com/Mishra559/DSAquestios/tree/master/3921-score-validator) |
 ## String
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Mishra559/DSAquestios/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3856-trim-trailing-vowels](https://github.com/Mishra559/DSAquestios/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Mishra559/DSAquestios/tree/master/3884-first-matching-character-from-both-ends) |
+| [3921-score-validator](https://github.com/Mishra559/DSAquestios/tree/master/3921-score-validator) |
 | [3931-check-adjacent-digit-differences](https://github.com/Mishra559/DSAquestios/tree/master/3931-check-adjacent-digit-differences) |
 | [3941-password-strength](https://github.com/Mishra559/DSAquestios/tree/master/3941-password-strength) |
 ## Math
@@ -233,6 +235,7 @@
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Mishra559/DSAquestios/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Mishra559/DSAquestios/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3921-score-validator](https://github.com/Mishra559/DSAquestios/tree/master/3921-score-validator) |
 ## Enumeration
 |  |
 | ------- |
