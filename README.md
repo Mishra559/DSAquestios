@@ -55,6 +55,7 @@
 | [0412-fizz-buzz](https://github.com/Mishra559/DSAquestios/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/Mishra559/DSAquestios/tree/master/0771-jewels-and-stones) |
 | [1528-shuffle-string](https://github.com/Mishra559/DSAquestios/tree/master/1528-shuffle-string) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Mishra559/DSAquestios/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1773-count-items-matching-a-rule](https://github.com/Mishra559/DSAquestios/tree/master/1773-count-items-matching-a-rule) |
 | [1844-replace-all-digits-with-characters](https://github.com/Mishra559/DSAquestios/tree/master/1844-replace-all-digits-with-characters) |
 | [1859-sorting-the-sentence](https://github.com/Mishra559/DSAquestios/tree/master/1859-sorting-the-sentence) |
@@ -182,6 +183,7 @@
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mishra559/DSAquestios/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Mishra559/DSAquestios/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1748-sum-of-unique-elements](https://github.com/Mishra559/DSAquestios/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mishra559/DSAquestios/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mishra559/DSAquestios/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
