@@ -115,6 +115,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mishra559/DSAquestios/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Mishra559/DSAquestios/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Mishra559/DSAquestios/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Mishra559/DSAquestios/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,6 +145,7 @@
 | [2427-number-of-common-factors](https://github.com/Mishra559/DSAquestios/tree/master/2427-number-of-common-factors) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mishra559/DSAquestios/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mishra559/DSAquestios/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Mishra559/DSAquestios/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Two Pointers
 |  |
 | ------- |
