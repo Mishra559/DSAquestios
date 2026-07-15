@@ -100,6 +100,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Mishra559/DSAquestios/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Mishra559/DSAquestios/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/Mishra559/DSAquestios/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Mishra559/DSAquestios/tree/master/0728-self-dividing-numbers) |
@@ -191,6 +192,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Mishra559/DSAquestios/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Mishra559/DSAquestios/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Mishra559/DSAquestios/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mishra559/DSAquestios/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/1486-xor-operation-in-an-array) |
@@ -286,4 +288,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Mishra559/DSAquestios/tree/master/0191-number-of-1-bits) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Mishra559/DSAquestios/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
