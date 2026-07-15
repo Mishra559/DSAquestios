@@ -108,6 +108,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mishra559/DSAquestios/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mishra559/DSAquestios/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/1486-xor-operation-in-an-array) |
+| [1837-sum-of-digits-in-base-k](https://github.com/Mishra559/DSAquestios/tree/master/1837-sum-of-digits-in-base-k) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mishra559/DSAquestios/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Mishra559/DSAquestios/tree/master/2119-a-number-after-a-double-reversal) |
 | [2396-strictly-palindromic-number](https://github.com/Mishra559/DSAquestios/tree/master/2396-strictly-palindromic-number) |
