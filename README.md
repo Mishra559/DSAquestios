@@ -95,6 +95,7 @@
 | [3340-check-balanced-string](https://github.com/Mishra559/DSAquestios/tree/master/3340-check-balanced-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mishra559/DSAquestios/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mishra559/DSAquestios/tree/master/3498-reverse-degree-of-a-string) |
+| [3798-largest-even-number](https://github.com/Mishra559/DSAquestios/tree/master/3798-largest-even-number) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Mishra559/DSAquestios/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3856-trim-trailing-vowels](https://github.com/Mishra559/DSAquestios/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Mishra559/DSAquestios/tree/master/3884-first-matching-character-from-both-ends) |
