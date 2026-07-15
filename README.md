@@ -89,6 +89,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/Mishra559/DSAquestios/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/Mishra559/DSAquestios/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/Mishra559/DSAquestios/tree/master/2418-sort-the-people) |
+| [2490-circular-sentence](https://github.com/Mishra559/DSAquestios/tree/master/2490-circular-sentence) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Mishra559/DSAquestios/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2678-number-of-senior-citizens](https://github.com/Mishra559/DSAquestios/tree/master/2678-number-of-senior-citizens) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Mishra559/DSAquestios/tree/master/2710-remove-trailing-zeros-from-a-string) |
