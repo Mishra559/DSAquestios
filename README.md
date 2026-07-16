@@ -60,6 +60,7 @@
 | [3663-find-the-least-frequent-digit](https://github.com/Mishra559/DSAquestios/tree/master/3663-find-the-least-frequent-digit) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Mishra559/DSAquestios/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/Mishra559/DSAquestios/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3921-score-validator](https://github.com/Mishra559/DSAquestios/tree/master/3921-score-validator) |
 ## String
 |  |
@@ -281,6 +282,7 @@
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Mishra559/DSAquestios/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mishra559/DSAquestios/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/Mishra559/DSAquestios/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Stack
 |  |
 | ------- |
