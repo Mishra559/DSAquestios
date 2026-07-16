@@ -10,6 +10,7 @@
 | [0414-third-maximum-number](https://github.com/Mishra559/DSAquestios/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0867-transpose-matrix](https://github.com/Mishra559/DSAquestios/tree/master/0867-transpose-matrix) |
+| [0929-unique-email-addresses](https://github.com/Mishra559/DSAquestios/tree/master/0929-unique-email-addresses) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mishra559/DSAquestios/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mishra559/DSAquestios/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mishra559/DSAquestios/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -68,6 +69,7 @@
 | [0412-fizz-buzz](https://github.com/Mishra559/DSAquestios/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/Mishra559/DSAquestios/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/Mishra559/DSAquestios/tree/master/0917-reverse-only-letters) |
+| [0929-unique-email-addresses](https://github.com/Mishra559/DSAquestios/tree/master/0929-unique-email-addresses) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mishra559/DSAquestios/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1507-reformat-date](https://github.com/Mishra559/DSAquestios/tree/master/1507-reformat-date) |
 | [1528-shuffle-string](https://github.com/Mishra559/DSAquestios/tree/master/1528-shuffle-string) |
@@ -154,6 +156,7 @@
 | [0389-find-the-difference](https://github.com/Mishra559/DSAquestios/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Mishra559/DSAquestios/tree/master/0771-jewels-and-stones) |
+| [0929-unique-email-addresses](https://github.com/Mishra559/DSAquestios/tree/master/0929-unique-email-addresses) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mishra559/DSAquestios/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Mishra559/DSAquestios/tree/master/1748-sum-of-unique-elements) |
