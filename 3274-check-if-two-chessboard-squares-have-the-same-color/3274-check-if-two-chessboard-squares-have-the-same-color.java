@@ -8,15 +8,17 @@ class Solution {
         int y2 = s2.charAt(1) - '0';
 
 
-        if((x1+y1) % 2 == 0 && (x2+y2) % 2 == 0){
-            return true;
-        }
+        // if((x1+y1) % 2 == 0 && (x2+y2) % 2 == 0){
+        //     return true;
+        // }
 
-        if((x1+y1) % 2 != 0 && (x2+y2) % 2 != 0){
-            return true;
-        }
+        // if((x1+y1) % 2 != 0 && (x2+y2) % 2 != 0){
+        //     return true;
+        // }
 
-        return false;
+        // return false;
+
+        return (x1 + y1) % 2 == (x2 + y2) % 2;
 
 
     }
