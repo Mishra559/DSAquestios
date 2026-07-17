@@ -54,6 +54,7 @@
 | [2960-count-tested-devices-after-test-operations](https://github.com/Mishra559/DSAquestios/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mishra559/DSAquestios/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Mishra559/DSAquestios/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Mishra559/DSAquestios/tree/master/3074-apple-redistribution-into-boxes) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Mishra559/DSAquestios/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Mishra559/DSAquestios/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Mishra559/DSAquestios/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -239,6 +240,7 @@
 | [2418-sort-the-people](https://github.com/Mishra559/DSAquestios/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Mishra559/DSAquestios/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mishra559/DSAquestios/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Mishra559/DSAquestios/tree/master/3074-apple-redistribution-into-boxes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -361,4 +363,5 @@
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/Mishra559/DSAquestios/tree/master/1903-largest-odd-number-in-string) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Mishra559/DSAquestios/tree/master/3074-apple-redistribution-into-boxes) |
 <!---LeetCode Topics End-->
