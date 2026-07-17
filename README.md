@@ -51,6 +51,7 @@
 | [2788-split-strings-by-separator](https://github.com/Mishra559/DSAquestios/tree/master/2788-split-strings-by-separator) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mishra559/DSAquestios/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Mishra559/DSAquestios/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/Mishra559/DSAquestios/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mishra559/DSAquestios/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Mishra559/DSAquestios/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Mishra559/DSAquestios/tree/master/3079-find-the-sum-of-encrypted-integers) |
@@ -261,6 +262,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/Mishra559/DSAquestios/tree/master/2351-first-letter-to-appear-twice) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mishra559/DSAquestios/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Mishra559/DSAquestios/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/Mishra559/DSAquestios/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mishra559/DSAquestios/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/Mishra559/DSAquestios/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Mishra559/DSAquestios/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -282,6 +284,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Mishra559/DSAquestios/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2810-faulty-keyboard](https://github.com/Mishra559/DSAquestios/tree/master/2810-faulty-keyboard) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/Mishra559/DSAquestios/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3174-clear-digits](https://github.com/Mishra559/DSAquestios/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mishra559/DSAquestios/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mishra559/DSAquestios/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
