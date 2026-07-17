@@ -3,43 +3,19 @@ class Solution {
 
         int count = 0;
 
-        for(int i = left;i<=right;i++){
+        for (int i = left; i <= right; i++) {
 
-            int n = i;
+            int bits = Integer.bitCount(i);
 
-            int setBits = 0;
-
-            while(n>0){
-                setBits += (n&1);
-                n>>=1;
-            }
-
-            if(isPrime(setBits)){
+            if (bits == 2 || bits == 3 || bits == 5 || bits == 7 ||
+                    bits == 11 || bits == 13 || bits == 17 || bits == 19) {
                 count++;
-            }  
+            }
 
         }
 
         return count;
-        
+
     }
 
-    private static boolean isPrime(int n){
-        if(n<=1){
-            return false;
-        }
-        if(n == 2){
-            return true;
-        }
-        if(n%2 == 0){
-            return false;
-        }
-        
-        for(int i = 3;i*i <= n;i++){
-            if(n%i == 0){
-                return false;
-            }
-        }
-        return true;
-    }
 }
