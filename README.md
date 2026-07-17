@@ -133,6 +133,7 @@
 | [0412-fizz-buzz](https://github.com/Mishra559/DSAquestios/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/Mishra559/DSAquestios/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Mishra559/DSAquestios/tree/master/0728-self-dividing-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mishra559/DSAquestios/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mishra559/DSAquestios/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mishra559/DSAquestios/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/1486-xor-operation-in-an-array) |
@@ -245,6 +246,7 @@
 | [0231-power-of-two](https://github.com/Mishra559/DSAquestios/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Mishra559/DSAquestios/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Mishra559/DSAquestios/tree/master/0389-find-the-difference) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mishra559/DSAquestios/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mishra559/DSAquestios/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/1486-xor-operation-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Mishra559/DSAquestios/tree/master/2351-first-letter-to-appear-twice) |
