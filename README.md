@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Mishra559/DSAquestios/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Mishra559/DSAquestios/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/Mishra559/DSAquestios/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Mishra559/DSAquestios/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Mishra559/DSAquestios/tree/master/0520-detect-capital) |
