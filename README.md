@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Mishra559/DSAquestios/tree/master/0049-group-anagrams) |
+| [0268-missing-number](https://github.com/Mishra559/DSAquestios/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Mishra559/DSAquestios/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0867-transpose-matrix](https://github.com/Mishra559/DSAquestios/tree/master/0867-transpose-matrix) |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Mishra559/DSAquestios/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Mishra559/DSAquestios/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Mishra559/DSAquestios/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/Mishra559/DSAquestios/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Mishra559/DSAquestios/tree/master/0728-self-dividing-numbers) |
@@ -157,6 +159,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Mishra559/DSAquestios/tree/master/0049-group-anagrams) |
+| [0268-missing-number](https://github.com/Mishra559/DSAquestios/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Mishra559/DSAquestios/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Mishra559/DSAquestios/tree/master/0771-jewels-and-stones) |
@@ -205,6 +208,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Mishra559/DSAquestios/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/Mishra559/DSAquestios/tree/master/0633-sum-of-square-numbers) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mishra559/DSAquestios/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mishra559/DSAquestios/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -214,6 +218,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Mishra559/DSAquestios/tree/master/0049-group-anagrams) |
+| [0268-missing-number](https://github.com/Mishra559/DSAquestios/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Mishra559/DSAquestios/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Mishra559/DSAquestios/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -230,6 +235,7 @@
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Mishra559/DSAquestios/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Mishra559/DSAquestios/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Mishra559/DSAquestios/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Mishra559/DSAquestios/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mishra559/DSAquestios/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/1486-xor-operation-in-an-array) |
