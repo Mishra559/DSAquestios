@@ -6,29 +6,32 @@ class Solution {
         int i = 0;
         int j = nums.length - 1;
 
-        while(i<j){
+        while (i < j) {
 
-            result += concate(nums[i],nums[j]);
+            result += concate(nums[i], nums[j]);
             i++;
             j--;
         }
 
-        if(nums.length % 2 != 0){
-            result += nums[nums.length/2];
+        if (nums.length % 2 != 0) {
+            result += nums[nums.length / 2];
         }
 
         return result;
-        
+
     }
 
-    private static int concate(int x,int y){
+    private static int concate(int x, int y) {
 
-        StringBuilder sb = new StringBuilder();
+        int temp = y;
+        int power = 1;
 
-        sb.append(Integer.toString(x));
-        sb.append(Integer.toString(y));
+        while (temp > 0) {
+            power *= 10;
+            temp /= 10;
+        }
 
-        return Integer.parseInt(sb.toString());
+        return x * power + y;
 
     }
 }
