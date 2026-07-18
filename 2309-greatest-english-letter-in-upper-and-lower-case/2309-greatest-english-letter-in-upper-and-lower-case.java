@@ -5,34 +5,25 @@ class Solution {
 
         char result = ' ';
 
-        for(char ch:s.toCharArray()){
+        for (char ch : s.toCharArray()) {
             set.add(ch);
         }
 
-        for(char ch:s.toCharArray()){
+        for (char ch : s.toCharArray()) {
 
-            if(Character.isLowerCase(ch)){
-                ch = Character.toUpperCase(ch);
-                if(set.contains(ch)){
-                    if(ch > result){
-                        result = ch;
-                    }
-                }
-            }
-            else{
-                if(set.contains(Character.toLowerCase(ch))){
-                    if(ch > result){
-                        result = ch;
-                    }
-                }
+            char upper = Character.toUpperCase(ch);
+            char lower = Character.toLowerCase(ch);
+
+            if (set.contains(upper) && set.contains(lower) && upper > result) {
+                result = upper;
             }
         }
 
-        if(result == ' '){
+        if (result == ' ') {
             return "";
         }
 
         return Character.toString(result);
-        
+
     }
 }
