@@ -86,6 +86,7 @@
 | [0647-palindromic-substrings](https://github.com/Mishra559/DSAquestios/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/Mishra559/DSAquestios/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/Mishra559/DSAquestios/tree/master/0771-jewels-and-stones) |
+| [0824-goat-latin](https://github.com/Mishra559/DSAquestios/tree/master/0824-goat-latin) |
 | [0917-reverse-only-letters](https://github.com/Mishra559/DSAquestios/tree/master/0917-reverse-only-letters) |
 | [0929-unique-email-addresses](https://github.com/Mishra559/DSAquestios/tree/master/0929-unique-email-addresses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mishra559/DSAquestios/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
