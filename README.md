@@ -371,6 +371,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Mishra559/DSAquestios/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Mishra559/DSAquestios/tree/master/0231-power-of-two) |
 ## String Matching
 |  |
@@ -381,4 +382,8 @@
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/Mishra559/DSAquestios/tree/master/1903-largest-odd-number-in-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Mishra559/DSAquestios/tree/master/3074-apple-redistribution-into-boxes) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Mishra559/DSAquestios/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
