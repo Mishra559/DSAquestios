@@ -10,6 +10,7 @@
 | [0268-missing-number](https://github.com/Mishra559/DSAquestios/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Mishra559/DSAquestios/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0506-relative-ranks](https://github.com/Mishra559/DSAquestios/tree/master/0506-relative-ranks) |
 | [0867-transpose-matrix](https://github.com/Mishra559/DSAquestios/tree/master/0867-transpose-matrix) |
 | [0929-unique-email-addresses](https://github.com/Mishra559/DSAquestios/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mishra559/DSAquestios/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -256,6 +257,7 @@
 | [0389-find-the-difference](https://github.com/Mishra559/DSAquestios/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Mishra559/DSAquestios/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0506-relative-ranks](https://github.com/Mishra559/DSAquestios/tree/master/0506-relative-ranks) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mishra559/DSAquestios/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/Mishra559/DSAquestios/tree/master/1859-sorting-the-sentence) |
@@ -303,6 +305,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/Mishra559/DSAquestios/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mishra559/DSAquestios/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
