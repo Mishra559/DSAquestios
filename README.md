@@ -109,6 +109,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Mishra559/DSAquestios/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Mishra559/DSAquestios/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Mishra559/DSAquestios/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/Mishra559/DSAquestios/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/Mishra559/DSAquestios/tree/master/2278-percentage-of-letter-in-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Mishra559/DSAquestios/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2315-count-asterisks](https://github.com/Mishra559/DSAquestios/tree/master/2315-count-asterisks) |
