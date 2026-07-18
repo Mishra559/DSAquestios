@@ -67,6 +67,7 @@
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Mishra559/DSAquestios/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Mishra559/DSAquestios/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3838-weighted-word-mapping](https://github.com/Mishra559/DSAquestios/tree/master/3838-weighted-word-mapping) |
 | [3861-minimum-capacity-box](https://github.com/Mishra559/DSAquestios/tree/master/3861-minimum-capacity-box) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Mishra559/DSAquestios/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3921-score-validator](https://github.com/Mishra559/DSAquestios/tree/master/3921-score-validator) |
@@ -129,6 +130,7 @@
 | [3498-reverse-degree-of-a-string](https://github.com/Mishra559/DSAquestios/tree/master/3498-reverse-degree-of-a-string) |
 | [3798-largest-even-number](https://github.com/Mishra559/DSAquestios/tree/master/3798-largest-even-number) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Mishra559/DSAquestios/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3838-weighted-word-mapping](https://github.com/Mishra559/DSAquestios/tree/master/3838-weighted-word-mapping) |
 | [3856-trim-trailing-vowels](https://github.com/Mishra559/DSAquestios/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Mishra559/DSAquestios/tree/master/3884-first-matching-character-from-both-ends) |
 | [3921-score-validator](https://github.com/Mishra559/DSAquestios/tree/master/3921-score-validator) |
@@ -314,6 +316,7 @@
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Mishra559/DSAquestios/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Mishra559/DSAquestios/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3838-weighted-word-mapping](https://github.com/Mishra559/DSAquestios/tree/master/3838-weighted-word-mapping) |
 | [3921-score-validator](https://github.com/Mishra559/DSAquestios/tree/master/3921-score-validator) |
 ## Enumeration
 |  |
