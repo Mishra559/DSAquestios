@@ -375,6 +375,7 @@
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Mishra559/DSAquestios/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Mishra559/DSAquestios/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Mishra559/DSAquestios/tree/master/1683-invalid-tweets) |
+| [1729-find-followers-count](https://github.com/Mishra559/DSAquestios/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Mishra559/DSAquestios/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Mishra559/DSAquestios/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Prefix Sum
