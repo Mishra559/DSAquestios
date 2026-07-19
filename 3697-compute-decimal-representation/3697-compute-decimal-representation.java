@@ -7,7 +7,7 @@ class Solution {
 
         while(n>0){
             int d = n%10;
-            if(d*x != 0){
+            if(d != 0){
                 list.add(d*x);
             }
             x *= 10; 
