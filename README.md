@@ -12,6 +12,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/Mishra559/DSAquestios/tree/master/0506-relative-ranks) |
 | [0867-transpose-matrix](https://github.com/Mishra559/DSAquestios/tree/master/0867-transpose-matrix) |
+| [0896-monotonic-array](https://github.com/Mishra559/DSAquestios/tree/master/0896-monotonic-array) |
 | [0929-unique-email-addresses](https://github.com/Mishra559/DSAquestios/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mishra559/DSAquestios/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mishra559/DSAquestios/tree/master/1295-find-numbers-with-even-number-of-digits) |
