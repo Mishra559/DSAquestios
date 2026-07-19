@@ -87,6 +87,7 @@
 | [0647-palindromic-substrings](https://github.com/Mishra559/DSAquestios/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/Mishra559/DSAquestios/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/Mishra559/DSAquestios/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/Mishra559/DSAquestios/tree/master/0796-rotate-string) |
 | [0824-goat-latin](https://github.com/Mishra559/DSAquestios/tree/master/0824-goat-latin) |
 | [0917-reverse-only-letters](https://github.com/Mishra559/DSAquestios/tree/master/0917-reverse-only-letters) |
 | [0929-unique-email-addresses](https://github.com/Mishra559/DSAquestios/tree/master/0929-unique-email-addresses) |
@@ -410,6 +411,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/Mishra559/DSAquestios/tree/master/0796-rotate-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mishra559/DSAquestios/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Greedy
 |  |
