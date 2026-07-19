@@ -70,6 +70,7 @@
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mishra559/DSAquestios/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Mishra559/DSAquestios/tree/master/3285-find-indices-of-stable-mountains) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mishra559/DSAquestios/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Mishra559/DSAquestios/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/Mishra559/DSAquestios/tree/master/3663-find-the-least-frequent-digit) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3697-compute-decimal-representation](https://github.com/Mishra559/DSAquestios/tree/master/3697-compute-decimal-representation) |
@@ -191,6 +192,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mishra559/DSAquestios/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mishra559/DSAquestios/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mishra559/DSAquestios/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Mishra559/DSAquestios/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mishra559/DSAquestios/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mishra559/DSAquestios/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/Mishra559/DSAquestios/tree/master/3663-find-the-least-frequent-digit) |
@@ -230,6 +232,7 @@
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Mishra559/DSAquestios/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Mishra559/DSAquestios/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Mishra559/DSAquestios/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Mishra559/DSAquestios/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/Mishra559/DSAquestios/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Mishra559/DSAquestios/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/Mishra559/DSAquestios/tree/master/3866-first-unique-even-element) |
@@ -242,6 +245,7 @@
 | [2413-smallest-even-multiple](https://github.com/Mishra559/DSAquestios/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Mishra559/DSAquestios/tree/master/2427-number-of-common-factors) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mishra559/DSAquestios/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Mishra559/DSAquestios/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mishra559/DSAquestios/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Mishra559/DSAquestios/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Two Pointers
@@ -323,6 +327,7 @@
 | [2960-count-tested-devices-after-test-operations](https://github.com/Mishra559/DSAquestios/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mishra559/DSAquestios/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Mishra559/DSAquestios/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Mishra559/DSAquestios/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/Mishra559/DSAquestios/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Mishra559/DSAquestios/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/Mishra559/DSAquestios/tree/master/3866-first-unique-even-element) |
