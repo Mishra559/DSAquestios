@@ -82,6 +82,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Mishra559/DSAquestios/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Mishra559/DSAquestios/tree/master/0058-length-of-last-word) |
+| [0383-ransom-note](https://github.com/Mishra559/DSAquestios/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Mishra559/DSAquestios/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Mishra559/DSAquestios/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Mishra559/DSAquestios/tree/master/0520-detect-capital) |
@@ -196,6 +197,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Mishra559/DSAquestios/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Mishra559/DSAquestios/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/Mishra559/DSAquestios/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Mishra559/DSAquestios/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Mishra559/DSAquestios/tree/master/0771-jewels-and-stones) |
@@ -299,6 +301,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Mishra559/DSAquestios/tree/master/0383-ransom-note) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mishra559/DSAquestios/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Mishra559/DSAquestios/tree/master/1704-determine-if-string-halves-are-alike) |
