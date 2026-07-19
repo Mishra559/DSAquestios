@@ -70,6 +70,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mishra559/DSAquestios/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/Mishra559/DSAquestios/tree/master/3663-find-the-least-frequent-digit) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3697-compute-decimal-representation](https://github.com/Mishra559/DSAquestios/tree/master/3697-compute-decimal-representation) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Mishra559/DSAquestios/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Mishra559/DSAquestios/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3838-weighted-word-mapping](https://github.com/Mishra559/DSAquestios/tree/master/3838-weighted-word-mapping) |
@@ -188,6 +189,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mishra559/DSAquestios/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mishra559/DSAquestios/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/Mishra559/DSAquestios/tree/master/3663-find-the-least-frequent-digit) |
+| [3697-compute-decimal-representation](https://github.com/Mishra559/DSAquestios/tree/master/3697-compute-decimal-representation) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Mishra559/DSAquestios/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Mishra559/DSAquestios/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3908-valid-digit-number](https://github.com/Mishra559/DSAquestios/tree/master/3908-valid-digit-number) |
