@@ -146,6 +146,7 @@
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Mishra559/DSAquestios/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/Mishra559/DSAquestios/tree/master/3280-convert-date-to-binary) |
 | [3340-check-balanced-string](https://github.com/Mishra559/DSAquestios/tree/master/3340-check-balanced-string) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Mishra559/DSAquestios/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mishra559/DSAquestios/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mishra559/DSAquestios/tree/master/3498-reverse-degree-of-a-string) |
 | [3798-largest-even-number](https://github.com/Mishra559/DSAquestios/tree/master/3798-largest-even-number) |
@@ -234,6 +235,7 @@
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Mishra559/DSAquestios/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Mishra559/DSAquestios/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Mishra559/DSAquestios/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Mishra559/DSAquestios/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Mishra559/DSAquestios/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/Mishra559/DSAquestios/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Mishra559/DSAquestios/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -329,6 +331,7 @@
 | [2960-count-tested-devices-after-test-operations](https://github.com/Mishra559/DSAquestios/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mishra559/DSAquestios/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Mishra559/DSAquestios/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Mishra559/DSAquestios/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Mishra559/DSAquestios/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/Mishra559/DSAquestios/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Mishra559/DSAquestios/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
