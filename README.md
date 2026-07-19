@@ -26,6 +26,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Mishra559/DSAquestios/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Mishra559/DSAquestios/tree/master/1748-sum-of-unique-elements) |
 | [1773-count-items-matching-a-rule](https://github.com/Mishra559/DSAquestios/tree/master/1773-count-items-matching-a-rule) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Mishra559/DSAquestios/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mishra559/DSAquestios/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mishra559/DSAquestios/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -165,6 +166,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mishra559/DSAquestios/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/1486-xor-operation-in-an-array) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Mishra559/DSAquestios/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Mishra559/DSAquestios/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Mishra559/DSAquestios/tree/master/1837-sum-of-digits-in-base-k) |
 | [1903-largest-odd-number-in-string](https://github.com/Mishra559/DSAquestios/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mishra559/DSAquestios/tree/master/1979-find-greatest-common-divisor-of-array) |
