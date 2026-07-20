@@ -196,6 +196,7 @@
 | [3280-convert-date-to-binary](https://github.com/Mishra559/DSAquestios/tree/master/3280-convert-date-to-binary) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mishra559/DSAquestios/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mishra559/DSAquestios/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/Mishra559/DSAquestios/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mishra559/DSAquestios/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Mishra559/DSAquestios/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mishra559/DSAquestios/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -299,6 +300,7 @@
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Mishra559/DSAquestios/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mishra559/DSAquestios/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Mishra559/DSAquestios/tree/master/3074-apple-redistribution-into-boxes) |
+| [3536-maximum-product-of-two-digits](https://github.com/Mishra559/DSAquestios/tree/master/3536-maximum-product-of-two-digits) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Mishra559/DSAquestios/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Bit Manipulation
 |  |
