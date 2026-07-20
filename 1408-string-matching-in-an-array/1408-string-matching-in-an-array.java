@@ -9,7 +9,7 @@ class Solution {
 
             for(int j = 0;j<words.length;j++){
 
-                if(i != j && list.indexOf(str) == -1 && words[j].contains(str)){
+                if(i != j && words[j].contains(str)){
                     flag = true;
                     break;
                 }
