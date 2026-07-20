@@ -147,6 +147,7 @@
 | [2810-faulty-keyboard](https://github.com/Mishra559/DSAquestios/tree/master/2810-faulty-keyboard) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Mishra559/DSAquestios/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Mishra559/DSAquestios/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Mishra559/DSAquestios/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3174-clear-digits](https://github.com/Mishra559/DSAquestios/tree/master/3174-clear-digits) |
 | [3210-find-the-encrypted-string](https://github.com/Mishra559/DSAquestios/tree/master/3210-find-the-encrypted-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Mishra559/DSAquestios/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
@@ -242,6 +243,7 @@
 | [2716-minimize-string-length](https://github.com/Mishra559/DSAquestios/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Mishra559/DSAquestios/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mishra559/DSAquestios/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Mishra559/DSAquestios/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Mishra559/DSAquestios/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Mishra559/DSAquestios/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Mishra559/DSAquestios/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
