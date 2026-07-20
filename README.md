@@ -102,6 +102,7 @@
 | [0917-reverse-only-letters](https://github.com/Mishra559/DSAquestios/tree/master/0917-reverse-only-letters) |
 | [0929-unique-email-addresses](https://github.com/Mishra559/DSAquestios/tree/master/0929-unique-email-addresses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mishra559/DSAquestios/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Mishra559/DSAquestios/tree/master/1189-maximum-number-of-balloons) |
 | [1408-string-matching-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mishra559/DSAquestios/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1507-reformat-date](https://github.com/Mishra559/DSAquestios/tree/master/1507-reformat-date) |
@@ -221,6 +222,7 @@
 | [0771-jewels-and-stones](https://github.com/Mishra559/DSAquestios/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/Mishra559/DSAquestios/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mishra559/DSAquestios/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1189-maximum-number-of-balloons](https://github.com/Mishra559/DSAquestios/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mishra559/DSAquestios/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Mishra559/DSAquestios/tree/master/1748-sum-of-unique-elements) |
@@ -326,6 +328,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Mishra559/DSAquestios/tree/master/0383-ransom-note) |
+| [1189-maximum-number-of-balloons](https://github.com/Mishra559/DSAquestios/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mishra559/DSAquestios/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Mishra559/DSAquestios/tree/master/1704-determine-if-string-halves-are-alike) |
