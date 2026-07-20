@@ -177,6 +177,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mishra559/DSAquestios/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Mishra559/DSAquestios/tree/master/1837-sum-of-digits-in-base-k) |
 | [1903-largest-odd-number-in-string](https://github.com/Mishra559/DSAquestios/tree/master/1903-largest-odd-number-in-string) |
+| [1952-three-divisors](https://github.com/Mishra559/DSAquestios/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mishra559/DSAquestios/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Mishra559/DSAquestios/tree/master/2119-a-number-after-a-double-reversal) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Mishra559/DSAquestios/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -250,6 +251,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Mishra559/DSAquestios/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/Mishra559/DSAquestios/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mishra559/DSAquestios/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Mishra559/DSAquestios/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Mishra559/DSAquestios/tree/master/2427-number-of-common-factors) |
@@ -379,6 +381,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/Mishra559/DSAquestios/tree/master/1952-three-divisors) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Mishra559/DSAquestios/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2427-number-of-common-factors](https://github.com/Mishra559/DSAquestios/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mishra559/DSAquestios/tree/master/2778-sum-of-squares-of-special-elements) |
