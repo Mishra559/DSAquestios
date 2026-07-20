@@ -205,6 +205,7 @@
 | [3697-compute-decimal-representation](https://github.com/Mishra559/DSAquestios/tree/master/3697-compute-decimal-representation) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Mishra559/DSAquestios/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Mishra559/DSAquestios/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3870-count-commas-in-range](https://github.com/Mishra559/DSAquestios/tree/master/3870-count-commas-in-range) |
 | [3908-valid-digit-number](https://github.com/Mishra559/DSAquestios/tree/master/3908-valid-digit-number) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Mishra559/DSAquestios/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Hash Table
