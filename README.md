@@ -199,6 +199,7 @@
 | [2544-alternating-digit-sum](https://github.com/Mishra559/DSAquestios/tree/master/2544-alternating-digit-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Mishra559/DSAquestios/tree/master/2651-calculate-delayed-arrival-time) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Mishra559/DSAquestios/tree/master/2769-find-the-maximum-achievable-number) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Mishra559/DSAquestios/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Mishra559/DSAquestios/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3099-harshad-number](https://github.com/Mishra559/DSAquestios/tree/master/3099-harshad-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Mishra559/DSAquestios/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -267,6 +268,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mishra559/DSAquestios/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Mishra559/DSAquestios/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Mishra559/DSAquestios/tree/master/2427-number-of-common-factors) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Mishra559/DSAquestios/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mishra559/DSAquestios/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Mishra559/DSAquestios/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mishra559/DSAquestios/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -473,6 +475,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Mishra559/DSAquestios/tree/master/0021-merge-two-sorted-lists) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Mishra559/DSAquestios/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
