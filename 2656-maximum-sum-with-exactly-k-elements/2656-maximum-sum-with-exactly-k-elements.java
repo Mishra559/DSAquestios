@@ -9,12 +9,6 @@ class Solution {
             }
         }
 
-        int sum = 0;
-
-        for(int i = 0;i<k;i++){
-            sum += max;
-            max++;
-        }
-        return sum;
+        return k * (2 * max + k - 1) / 2;
     }
 }
