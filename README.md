@@ -74,6 +74,7 @@
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Mishra559/DSAquestios/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Mishra559/DSAquestios/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Mishra559/DSAquestios/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Mishra559/DSAquestios/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mishra559/DSAquestios/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Mishra559/DSAquestios/tree/master/3285-find-indices-of-stable-mountains) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mishra559/DSAquestios/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -200,6 +201,7 @@
 | [2769-find-the-maximum-achievable-number](https://github.com/Mishra559/DSAquestios/tree/master/2769-find-the-maximum-achievable-number) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Mishra559/DSAquestios/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3099-harshad-number](https://github.com/Mishra559/DSAquestios/tree/master/3099-harshad-number) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Mishra559/DSAquestios/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mishra559/DSAquestios/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Mishra559/DSAquestios/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/Mishra559/DSAquestios/tree/master/3280-convert-date-to-binary) |
