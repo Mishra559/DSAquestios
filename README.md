@@ -179,6 +179,7 @@
 | [0728-self-dividing-numbers](https://github.com/Mishra559/DSAquestios/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mishra559/DSAquestios/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mishra559/DSAquestios/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1323-maximum-69-number](https://github.com/Mishra559/DSAquestios/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mishra559/DSAquestios/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/1486-xor-operation-in-an-array) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Mishra559/DSAquestios/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -468,6 +469,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1323-maximum-69-number](https://github.com/Mishra559/DSAquestios/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Mishra559/DSAquestios/tree/master/1903-largest-odd-number-in-string) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Mishra559/DSAquestios/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Mishra559/DSAquestios/tree/master/3074-apple-redistribution-into-boxes) |
