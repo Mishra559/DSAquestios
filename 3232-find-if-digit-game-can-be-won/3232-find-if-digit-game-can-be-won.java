@@ -14,7 +14,7 @@ class Solution {
             }
         }
 
-        return singleSum>doubleSum || doubleSum > singleSum;
+       return singleSum != doubleSum;
         
     }
 }
