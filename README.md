@@ -11,6 +11,7 @@
 | [0414-third-maximum-number](https://github.com/Mishra559/DSAquestios/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/Mishra559/DSAquestios/tree/master/0506-relative-ranks) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Mishra559/DSAquestios/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0867-transpose-matrix](https://github.com/Mishra559/DSAquestios/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/Mishra559/DSAquestios/tree/master/0896-monotonic-array) |
 | [0929-unique-email-addresses](https://github.com/Mishra559/DSAquestios/tree/master/0929-unique-email-addresses) |
@@ -306,6 +307,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Mishra559/DSAquestios/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/Mishra559/DSAquestios/tree/master/0633-sum-of-square-numbers) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Mishra559/DSAquestios/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mishra559/DSAquestios/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mishra559/DSAquestios/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mishra559/DSAquestios/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
