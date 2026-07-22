@@ -98,6 +98,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Mishra559/DSAquestios/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Mishra559/DSAquestios/tree/master/0058-length-of-last-word) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Mishra559/DSAquestios/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Mishra559/DSAquestios/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Mishra559/DSAquestios/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Mishra559/DSAquestios/tree/master/0412-fizz-buzz) |
@@ -287,6 +288,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Mishra559/DSAquestios/tree/master/0345-reverse-vowels-of-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/Mishra559/DSAquestios/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/Mishra559/DSAquestios/tree/master/0647-palindromic-substrings) |
 | [0917-reverse-only-letters](https://github.com/Mishra559/DSAquestios/tree/master/0917-reverse-only-letters) |
