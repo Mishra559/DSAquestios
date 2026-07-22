@@ -111,6 +111,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mishra559/DSAquestios/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Mishra559/DSAquestios/tree/master/1189-maximum-number-of-balloons) |
 | [1408-string-matching-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/1408-string-matching-in-an-array) |
+| [1446-consecutive-characters](https://github.com/Mishra559/DSAquestios/tree/master/1446-consecutive-characters) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mishra559/DSAquestios/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1507-reformat-date](https://github.com/Mishra559/DSAquestios/tree/master/1507-reformat-date) |
 | [1528-shuffle-string](https://github.com/Mishra559/DSAquestios/tree/master/1528-shuffle-string) |
