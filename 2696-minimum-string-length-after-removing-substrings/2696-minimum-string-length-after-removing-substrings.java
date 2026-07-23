@@ -17,22 +17,37 @@ class Solution {
 
         // Stack<Character> stack = new Stack<>();
 
-        Deque<Character> stack = new ArrayDeque<>();
+        // Deque<Character> stack = new ArrayDeque<>();
+
+        // for(char ch:s.toCharArray()){
+
+        //     if(!stack.isEmpty() && ch == 'B' && stack.peek() == 'A'){
+        //         stack.pop();
+        //     }
+        //     else if(!stack.isEmpty() && ch == 'D' && stack.peek() == 'C'){
+        //         stack.pop();
+        //     }
+        //     else{
+        //         stack.push(ch);
+        //     }
+        // }
+
+        // return stack.size();
+
+        char[] arr = new char[s.length()];
+
+        int x = 0;
 
         for(char ch:s.toCharArray()){
 
-            if(!stack.isEmpty() && ch == 'B' && stack.peek() == 'A'){
-                stack.pop();
-            }
-            else if(!stack.isEmpty() && ch == 'D' && stack.peek() == 'C'){
-                stack.pop();
+            if(x>0 && (((ch == 'B' && arr[x-1] == 'A')) || (ch == 'D' && arr[x-1] == 'C'))){
+                x--;
             }
             else{
-                stack.push(ch);
+                arr[x++] = ch;
             }
         }
-
-        return stack.size();
+        return x;
         
     }
 }
