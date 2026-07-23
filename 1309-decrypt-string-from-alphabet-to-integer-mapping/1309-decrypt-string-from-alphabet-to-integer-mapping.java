@@ -8,9 +8,7 @@ class Solution {
 
         while(i<s.length()){
 
-            if(Character.isDigit(s.charAt(i))){
-
-                if(i+2<s.length() && Character.isDigit(s.charAt(i+1)) && s.charAt(i+2) == '#'){
+                if(i+2<s.length() && s.charAt(i+2) == '#'){
                     int x = Integer.parseInt(s.substring(i,i+2));
                     char ch = (char) (x + 'a'-1);
                     sb.append(ch);
@@ -22,7 +20,6 @@ class Solution {
                     sb.append(ch);
                     i++;                    
                 }
-            }
         }
 
         return sb.toString();
