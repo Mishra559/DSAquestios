@@ -87,6 +87,7 @@
 | [3697-compute-decimal-representation](https://github.com/Mishra559/DSAquestios/tree/master/3697-compute-decimal-representation) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Mishra559/DSAquestios/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mishra559/DSAquestios/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3731-find-missing-elements](https://github.com/Mishra559/DSAquestios/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Mishra559/DSAquestios/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3838-weighted-word-mapping](https://github.com/Mishra559/DSAquestios/tree/master/3838-weighted-word-mapping) |
 | [3861-minimum-capacity-box](https://github.com/Mishra559/DSAquestios/tree/master/3861-minimum-capacity-box) |
@@ -270,6 +271,7 @@
 | [3663-find-the-least-frequent-digit](https://github.com/Mishra559/DSAquestios/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Mishra559/DSAquestios/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mishra559/DSAquestios/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3731-find-missing-elements](https://github.com/Mishra559/DSAquestios/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Mishra559/DSAquestios/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3866-first-unique-even-element](https://github.com/Mishra559/DSAquestios/tree/master/3866-first-unique-even-element) |
 | [3941-password-strength](https://github.com/Mishra559/DSAquestios/tree/master/3941-password-strength) |
@@ -338,6 +340,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mishra559/DSAquestios/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Mishra559/DSAquestios/tree/master/3074-apple-redistribution-into-boxes) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mishra559/DSAquestios/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Mishra559/DSAquestios/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Mishra559/DSAquestios/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Bit Manipulation
 |  |
