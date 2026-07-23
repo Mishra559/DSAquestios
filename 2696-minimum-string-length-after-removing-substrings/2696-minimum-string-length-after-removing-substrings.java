@@ -15,7 +15,9 @@ class Solution {
         // return s.length();
 
 
-        Stack<Character> stack = new Stack<>();
+        // Stack<Character> stack = new Stack<>();
+
+        Deque<Character> stack = new ArrayDeque<>();
 
         for(char ch:s.toCharArray()){
 
