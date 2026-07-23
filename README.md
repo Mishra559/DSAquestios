@@ -190,6 +190,7 @@
 | [1323-maximum-69-number](https://github.com/Mishra559/DSAquestios/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mishra559/DSAquestios/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/1486-xor-operation-in-an-array) |
+| [1688-count-of-matches-in-tournament](https://github.com/Mishra559/DSAquestios/tree/master/1688-count-of-matches-in-tournament) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Mishra559/DSAquestios/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mishra559/DSAquestios/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Mishra559/DSAquestios/tree/master/1837-sum-of-digits-in-base-k) |
@@ -390,6 +391,7 @@
 | [0412-fizz-buzz](https://github.com/Mishra559/DSAquestios/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Mishra559/DSAquestios/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/Mishra559/DSAquestios/tree/master/0867-transpose-matrix) |
+| [1688-count-of-matches-in-tournament](https://github.com/Mishra559/DSAquestios/tree/master/1688-count-of-matches-in-tournament) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Mishra559/DSAquestios/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2109-adding-spaces-to-a-string](https://github.com/Mishra559/DSAquestios/tree/master/2109-adding-spaces-to-a-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Mishra559/DSAquestios/tree/master/2154-keep-multiplying-found-values-by-two) |
