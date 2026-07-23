@@ -11,6 +11,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Mishra559/DSAquestios/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Mishra559/DSAquestios/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0506-relative-ranks](https://github.com/Mishra559/DSAquestios/tree/master/0506-relative-ranks) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mishra559/DSAquestios/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0867-transpose-matrix](https://github.com/Mishra559/DSAquestios/tree/master/0867-transpose-matrix) |
@@ -248,6 +249,7 @@
 | [0383-ransom-note](https://github.com/Mishra559/DSAquestios/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Mishra559/DSAquestios/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Mishra559/DSAquestios/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/Mishra559/DSAquestios/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mishra559/DSAquestios/tree/master/0961-n-repeated-element-in-size-2n-array) |
