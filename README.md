@@ -43,6 +43,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Mishra559/DSAquestios/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Mishra559/DSAquestios/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Mishra559/DSAquestios/tree/master/2206-divide-array-into-equal-pairs) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Mishra559/DSAquestios/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Mishra559/DSAquestios/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2418-sort-the-people](https://github.com/Mishra559/DSAquestios/tree/master/2418-sort-the-people) |
@@ -255,6 +256,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mishra559/DSAquestios/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Mishra559/DSAquestios/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Mishra559/DSAquestios/tree/master/2206-divide-array-into-equal-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Mishra559/DSAquestios/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Mishra559/DSAquestios/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2325-decode-the-message](https://github.com/Mishra559/DSAquestios/tree/master/2325-decode-the-message) |
@@ -357,6 +359,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mishra559/DSAquestios/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mishra559/DSAquestios/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/1486-xor-operation-in-an-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Mishra559/DSAquestios/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Mishra559/DSAquestios/tree/master/2351-first-letter-to-appear-twice) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Mishra559/DSAquestios/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Mishra559/DSAquestios/tree/master/2506-count-pairs-of-similar-strings) |
@@ -374,6 +377,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mishra559/DSAquestios/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mishra559/DSAquestios/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Mishra559/DSAquestios/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Mishra559/DSAquestios/tree/master/2351-first-letter-to-appear-twice) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Mishra559/DSAquestios/tree/master/2506-count-pairs-of-similar-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mishra559/DSAquestios/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
