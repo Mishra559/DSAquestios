@@ -96,6 +96,7 @@
 | [3731-find-missing-elements](https://github.com/Mishra559/DSAquestios/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Mishra559/DSAquestios/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3838-weighted-word-mapping](https://github.com/Mishra559/DSAquestios/tree/master/3838-weighted-word-mapping) |
+| [3843-first-element-with-unique-frequency](https://github.com/Mishra559/DSAquestios/tree/master/3843-first-element-with-unique-frequency) |
 | [3861-minimum-capacity-box](https://github.com/Mishra559/DSAquestios/tree/master/3861-minimum-capacity-box) |
 | [3866-first-unique-even-element](https://github.com/Mishra559/DSAquestios/tree/master/3866-first-unique-even-element) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Mishra559/DSAquestios/tree/master/3880-minimum-absolute-difference-between-two-values) |
@@ -291,6 +292,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mishra559/DSAquestios/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Mishra559/DSAquestios/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Mishra559/DSAquestios/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3843-first-element-with-unique-frequency](https://github.com/Mishra559/DSAquestios/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/Mishra559/DSAquestios/tree/master/3866-first-unique-even-element) |
 | [3941-password-strength](https://github.com/Mishra559/DSAquestios/tree/master/3941-password-strength) |
 ## Number Theory
@@ -405,6 +407,7 @@
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Mishra559/DSAquestios/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/Mishra559/DSAquestios/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Mishra559/DSAquestios/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3843-first-element-with-unique-frequency](https://github.com/Mishra559/DSAquestios/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/Mishra559/DSAquestios/tree/master/3866-first-unique-even-element) |
 ## Heap (Priority Queue)
 |  |
