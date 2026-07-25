@@ -55,6 +55,7 @@
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Mishra559/DSAquestios/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Mishra559/DSAquestios/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2460-apply-operations-to-an-array](https://github.com/Mishra559/DSAquestios/tree/master/2460-apply-operations-to-an-array) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Mishra559/DSAquestios/tree/master/2506-count-pairs-of-similar-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mishra559/DSAquestios/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mishra559/DSAquestios/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -158,6 +159,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/Mishra559/DSAquestios/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/Mishra559/DSAquestios/tree/master/2418-sort-the-people) |
 | [2490-circular-sentence](https://github.com/Mishra559/DSAquestios/tree/master/2490-circular-sentence) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Mishra559/DSAquestios/tree/master/2506-count-pairs-of-similar-strings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Mishra559/DSAquestios/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2678-number-of-senior-citizens](https://github.com/Mishra559/DSAquestios/tree/master/2678-number-of-senior-citizens) |
