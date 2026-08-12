@@ -41,6 +41,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mishra559/DSAquestios/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/Mishra559/DSAquestios/tree/master/2057-smallest-index-with-equal-value) |
+| [2079-watering-plants](https://github.com/Mishra559/DSAquestios/tree/master/2079-watering-plants) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mishra559/DSAquestios/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Mishra559/DSAquestios/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Mishra559/DSAquestios/tree/master/2109-adding-spaces-to-a-string) |
@@ -426,6 +427,7 @@
 | [0867-transpose-matrix](https://github.com/Mishra559/DSAquestios/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/Mishra559/DSAquestios/tree/master/1688-count-of-matches-in-tournament) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Mishra559/DSAquestios/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2079-watering-plants](https://github.com/Mishra559/DSAquestios/tree/master/2079-watering-plants) |
 | [2109-adding-spaces-to-a-string](https://github.com/Mishra559/DSAquestios/tree/master/2109-adding-spaces-to-a-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Mishra559/DSAquestios/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Mishra559/DSAquestios/tree/master/2169-count-operations-to-obtain-zero) |
