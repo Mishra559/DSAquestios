@@ -10,7 +10,7 @@ class Solution {
 
         while(i<j){
             arr[i++] = k;
-            arr[j--] = -1 * k;
+            arr[j--] = -k;
             k++;
         }
 
