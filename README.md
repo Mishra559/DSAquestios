@@ -17,6 +17,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mishra559/DSAquestios/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0867-transpose-matrix](https://github.com/Mishra559/DSAquestios/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/Mishra559/DSAquestios/tree/master/0896-monotonic-array) |
+| [0905-sort-array-by-parity](https://github.com/Mishra559/DSAquestios/tree/master/0905-sort-array-by-parity) |
 | [0929-unique-email-addresses](https://github.com/Mishra559/DSAquestios/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mishra559/DSAquestios/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Mishra559/DSAquestios/tree/master/1207-unique-number-of-occurrences) |
@@ -321,6 +322,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Mishra559/DSAquestios/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/Mishra559/DSAquestios/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/Mishra559/DSAquestios/tree/master/0647-palindromic-substrings) |
+| [0905-sort-array-by-parity](https://github.com/Mishra559/DSAquestios/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/Mishra559/DSAquestios/tree/master/0917-reverse-only-letters) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mishra559/DSAquestios/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/Mishra559/DSAquestios/tree/master/2000-reverse-prefix-of-word) |
@@ -356,6 +358,7 @@
 | [0414-third-maximum-number](https://github.com/Mishra559/DSAquestios/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/Mishra559/DSAquestios/tree/master/0506-relative-ranks) |
+| [0905-sort-array-by-parity](https://github.com/Mishra559/DSAquestios/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mishra559/DSAquestios/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Mishra559/DSAquestios/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
