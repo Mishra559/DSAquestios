@@ -40,6 +40,7 @@
 | [1748-sum-of-unique-elements](https://github.com/Mishra559/DSAquestios/tree/master/1748-sum-of-unique-elements) |
 | [1773-count-items-matching-a-rule](https://github.com/Mishra559/DSAquestios/tree/master/1773-count-items-matching-a-rule) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mishra559/DSAquestios/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/Mishra559/DSAquestios/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mishra559/DSAquestios/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mishra559/DSAquestios/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -366,6 +367,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Mishra559/DSAquestios/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Mishra559/DSAquestios/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [1833-maximum-ice-cream-bars](https://github.com/Mishra559/DSAquestios/tree/master/1833-maximum-ice-cream-bars) |
 | [1859-sorting-the-sentence](https://github.com/Mishra559/DSAquestios/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mishra559/DSAquestios/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Mishra559/DSAquestios/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -405,6 +407,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Mishra559/DSAquestios/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1748-sum-of-unique-elements](https://github.com/Mishra559/DSAquestios/tree/master/1748-sum-of-unique-elements) |
+| [1833-maximum-ice-cream-bars](https://github.com/Mishra559/DSAquestios/tree/master/1833-maximum-ice-cream-bars) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mishra559/DSAquestios/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mishra559/DSAquestios/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Mishra559/DSAquestios/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -539,6 +542,7 @@
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/Mishra559/DSAquestios/tree/master/1323-maximum-69-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/Mishra559/DSAquestios/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/Mishra559/DSAquestios/tree/master/1903-largest-odd-number-in-string) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Mishra559/DSAquestios/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Mishra559/DSAquestios/tree/master/3074-apple-redistribution-into-boxes) |
